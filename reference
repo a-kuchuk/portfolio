@@ -1,0 +1,13 @@
+reference: https://tamalsen.dev/
+
+colours: 
+    https://colorhunt.co/palette/f6fb7ab4e38088d66c73bba3
+    yellow: #F6FB7A
+    light: #B4E380
+    dark: #88D66C
+    teal: #73BBA3
+    back: #1a191d
+
+TODO:
+    figure out a filtering system for projects
+    change experience section to be one of them click to open divs. 
